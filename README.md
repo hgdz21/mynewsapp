@@ -16,7 +16,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <h2>Project Structure</h2>
 
-angular-news-app/<br>
+mynewsapp/<br>
+
 ├── src/<br>
 │   ├── app/<br>
 │   │   ├── components/       # Reusable components (e.g., header, footer, news list)<br>
