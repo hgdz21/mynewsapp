@@ -16,15 +16,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <h2>Project Structure</h2>
 
-angular-news-app/
-├── src/
-│   ├── app/
-│   │   ├── components/       # Reusable components (e.g., header, footer, news list)
-│   │   ├── newsapi.services  # API service for fetching news data
-│   └── index.html            # App entry point
-├── angular.json              # Angular CLI configuration
-├── package.json              # Node.js dependencies
-└── tsconfig.json             # TypeScript configuration
+angular-news-app/<br>
+├── src/<br>
+│   ├── app/<br>
+│   │   ├── components/       # Reusable components (e.g., header, footer, news list)<br>
+│   │   ├── newsapi.services  # API service for fetching news data<br>
+│   └── index.html            # App entry point<br>
+├── angular.json              # Angular CLI configuration<br>
+├── package.json              # Node.js dependencies<br>
+└── tsconfig.json             # TypeScript configuration<br>
 
 <h2>Technologies Used</h2>
 
