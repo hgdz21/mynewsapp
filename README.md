@@ -28,10 +28,10 @@ angular-news-app/
 
 <h2>Technologies Used</h2>
 
-Framework: Angular
-Language: TypeScript
-Styling: CSS, Bootstrap
-API: NewsAPI
+Framework: Angular<br>
+Language: TypeScript<br>
+Styling: CSS, Bootstrap<br>
+API: NewsAPI<br>
 
 
 ## Development server
