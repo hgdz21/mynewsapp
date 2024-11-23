@@ -19,8 +19,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 angular-news-app/
 ├── src/
 │   ├── app/
-│   │   ├── components/       # Reusable components
-│   │   ├── newsapi.services  # API services
+│   │   ├── components/       # Reusable components (e.g., header, footer, news list)
+│   │   ├── newsapi.services  # API service for fetching news data
 │   └── index.html            # App entry point
 ├── angular.json              # Angular CLI configuration
 ├── package.json              # Node.js dependencies
