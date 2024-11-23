@@ -1,4 +1,4 @@
-# NewsApps
+# MyNews.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
@@ -13,6 +13,26 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![Sample Image](4.png)
 ![Sample Image](5.png)
 ![Sample Image](6.png)
+
+<h2>Project Structure</h2>
+
+angular-news-app/
+├── src/
+│   ├── app/
+│   │   ├── components/       # Reusable components
+│   │   ├── newsapi.services  # API services
+│   └── index.html            # App entry point
+├── angular.json              # Angular CLI configuration
+├── package.json              # Node.js dependencies
+└── tsconfig.json             # TypeScript configuration
+
+<h2>Technologies Used</h2>
+
+Framework: Angular
+Language: TypeScript
+Styling: CSS, Bootstrap
+API: NewsAPI
+
 
 ## Development server
 
