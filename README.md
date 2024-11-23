@@ -3,8 +3,16 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
 
 The App without ApiKey :
+
 ![Sample Image](1.png)
 
+The App with ApiKey :
+
+![Sample Image](2.png)
+![Sample Image](3.png)
+![Sample Image](4.png)
+![Sample Image](5.png)
+![Sample Image](6.png)
 
 ## Development server
 
@@ -32,5 +40,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## API
 
-to get an API, head to this link: https://newsapi.org ,by making an account they will give you a valid API to replace the placeholder.
+to get an API, head to this link: https://newsapi.org ,by making an account they will give you a valid API to replace the placeholder |your-api-key|.
 
